@@ -4,12 +4,15 @@ image: profile.jpg
 about:
   template: jolla
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
     - icon: github
       text: Github
       href: https://github.com/hxyv
+    - icon: strava
+      text: Strava
+      href: https://www.strava.com/athletes/67294357
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/dx2033924
 ---
 
 About this blog
